@@ -1,0 +1,33 @@
+a{
+    color: rgba(0, 102, 255, 0.733); 
+    text-decoration: none;
+}
+
+
+a:hover{
+    font-weight: bold;
+    color: rgb(245, 95, 118);
+    /*text-decoration: underline;*/
+    border-style: solid;
+    border-color: rgb(245, 95, 118); 
+    border-width: 0px 0px 2px 0px;
+    padding-bottom:5px;
+}
+
+a:active{
+    color: deeppink; 
+    border-color: deeppink;
+}
+
+div.Main{
+    background-color: rgba(211, 211, 211, 0.534);
+    border-radius: 10px;
+    height: 150px;
+    width: 400px;
+    padding-top: 20px;
+    margin-left: 29%;
+}
+
+a.yt{
+    display: inline;
+}

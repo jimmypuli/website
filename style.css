@@ -1,0 +1,29 @@
+body {
+    background-image: url("pink.jpg");
+    background-size: cover;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+div.text{
+    background-color: rgb(23, 119, 151);
+    display: inline-block; vertical-align: top;
+}
+
+b{
+    font-size: large;
+}
+
+div.Ptext{
+    width: 400px;
+    border-radius: 10px;
+    background-color: rgba(211, 211, 211, 0.534);
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+div.btext{
+    width: 350px;
+    margin-left: 210px;
+}
+
